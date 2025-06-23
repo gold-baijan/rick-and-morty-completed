@@ -185,7 +185,10 @@ class _CharacterDetailScreenState extends State<CharacterDetailScreen> {
                   ),
                   const SizedBox(height: 30),
                   Text(
-                    'The main protagonist of the animated series Rick and Morty...',
+                    'The main protagonist of the animated series Rick'
+                    ' and Morty. A mad scientist whose alcoholism, '
+                    'recklessness, and sociopathy cause concern '
+                    'for his daughter\'s family.',
                     style: TextStyle(
                       color: isDark
                           ? AppColors.nameDescriptionEpisodeColorDark
